@@ -1,0 +1,23 @@
+/* 🌙 Archivo de estilos personalizado */
+
+/* Ajuste para el menú lateral */
+nav ul .nav-link:hover {
+    background-color: rgb(0, 60, 255);
+    border-radius: 8px;
+  }
+  
+  /* Tono general de fondo */
+  body {
+    background-color: #c90000;
+  }
+  
+  /* Imágenes con efecto de brillo */
+  img:hover {
+    transform: scale(1.03);
+    transition: 0.3s;
+  }
+  img{
+    height: 800px;
+    width: 700px;
+  }
+  
