@@ -8,7 +8,7 @@ nav ul .nav-link:hover {
   
   /* Tono general de fondo */
   body {
-    background-color: #e00000;
+      font-family: sans-serif;
   }
   
   /* Imágenes con efecto de brillo */
@@ -19,5 +19,11 @@ nav ul .nav-link:hover {
   img{
     height: 800px;
     width: 700px;
+    box-shadow: 0px 0px 3px 4px blue;
   }
-  
+  footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+ 
